@@ -1,4 +1,7 @@
 # ICE 2: Half-Adder
+DOCUMENTATION:
+See the jpg images in C:\Users\C27Kyle.Southworth\ece281\ece281-ice2 for proof of functionality!
+
 
 Code for [ECE 281 ICE 2: Half-Adder](https://usafa-ece.github.io/ece281-book/ICE/ICE2.html)
 
